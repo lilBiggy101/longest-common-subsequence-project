@@ -1,9 +1,6 @@
 # Longest Common Subsequence (LCS)
-
-![C++](https://img.shields.io/badge/C%2B%2B-blue) ![Course](https://img.shields.io/badge/CS315-Algorithm%20Design-lightgrey)
-
 ## Overview
-A C++ implementation of the Longest Common Subsequence algorithm using dynamic programming. It finds the longest ordered sequence shared by two DNA strings. Built for my CS315 Algorithm Design class.
+A C++ project built for my CS315 Algorithm Design class which implements the Longest Common Subsequence algorithm using dynamic programming. It finds the longest ordered sequence shared by two DNA strings. 
 
 ## How It Works
 1. Build a 2D table where each cell holds the LCS length for a pair of prefixes of the two strings.
